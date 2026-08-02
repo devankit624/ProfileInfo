@@ -103,7 +103,7 @@ Profile-View/
 Clone the repository:
 
 ```bash
-git clone https://github.com/devankit624/profile-view.git
+gh repo clone devankit624/ProfileInfo
 ```
 
 Move into the project folder:
@@ -169,8 +169,6 @@ by editing the React components and Tailwind CSS classes.
 ### devankit624
 
 GitHub Profile:
-
-:contentReference[oaicite:0]{index=0}
 
 ---
 
